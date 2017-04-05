@@ -1,5 +1,3 @@
-//图片查看器
-
 # Viewer.js
 
 > JavaScript image viewer.
